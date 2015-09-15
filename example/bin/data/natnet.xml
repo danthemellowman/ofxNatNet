@@ -1,0 +1,5 @@
+<NatNet>
+	<Interface>en0</Interface>
+	<IP_Address>10.0.1.0</IP_Address>
+<NatNet/>
+</NatNet>
